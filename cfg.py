@@ -1,0 +1,2 @@
+TOKEN = '5471631481:AAHY2A9hqKmrOzdTs06KjH8m-6XUITLb7Qo'
+ADMIN = 'shadowalh'
